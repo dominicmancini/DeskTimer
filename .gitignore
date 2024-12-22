@@ -1,0 +1,52 @@
+# Scratch Files
+
+# USE ctrl+; ctrl+g to toggle visibibility of .gitignore files
+
+# domancini/Scratch.java
+src/main/java/com/domancini/Scratch.java
+src/main/java/com/domancini/TimeStuff.java
+src/main/java/com/domancini/Waiter.java
+
+# Remove other images except used tray icon image
+**/images/*
+!**/images/clock_noborder.png
+
+# Ignore vscode settings
+.vscode/
+
+# Ignore compiled Java Files
+*.class
+
+# Ignore Maven Build Directory
+target/
+
+# Ignoring test directory for now
+src/test/
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
+*.swp
+*.log
+
+# ignore OS specifc files
+.DS_Store
+Thumbs.db
+
+### Java ###
+# Maven Directories
+# target/
+# # Compiled class file
+# *.class
+
+# # Log file
+# *.log
+
+# # Package Files #
+# *.jar
+# *.war
+# *.nar
+# *.ear
+# *.zip
+# *.tar.gz
+# *.rar
