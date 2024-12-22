@@ -50,12 +50,12 @@ To set up the project locally, follow these steps:
 ```bash
 1. Clone the repository
     ```bash
-    git clone https://github.com/yourusername/desktimer.git
+    git clone https://github.com/dominicmancini/DeskTimer.git
     ```
 
 2. Navigate to the project directory
     ```bash
-    cd desktimer
+    cd DeskTimer
     ```
 
 3. Compile the Java program
